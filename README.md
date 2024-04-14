@@ -1,5 +1,4 @@
-# module-01
-module-01-challenge
+# my-coding-journey-begins
 
 # <module-01>
 
@@ -12,7 +11,17 @@ module-01-challenge
 
 ## Installation
 
-To install my project simply navigate to the provided Github URL to access my work.
+To install my project simply navigate to the provided URLs to access my work.
+
+## Technology Used
+
+-HTML/CSS
+
+## Usage
+
+![picture1](/assets/images/firstprojectscreenshot.jpg)
+![picture2](/assets/images/firstprojectscreenshot2.jpg)
+![picture3](/assets/images/firstprojectscreenshot3.jpg)
 
 ## License
 
