@@ -23,6 +23,8 @@ To install my project simply navigate to the provided URLs to access my work.
 ![picture2](/assets/images/firstprojectscreenshot2.jpg)
 ![picture3](/assets/images/firstprojectscreenshot3.jpg)
 
+Live Link: https://nbruggeman92.github.io/my-coding-journey-begins/
+
 ## License
 
 MIT License
